@@ -1,5 +1,26 @@
 [
     {
+        "Author": "attick, daemitus, buengese",
+        "Name": "XIV Combo Expanded",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "InternalName": "XIVComboExpanded",
+        "AssemblyVersion": "3.0.0.1",
+        "RepoUrl": "https://github.com/buengese/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/buengese/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1650312666"
+    },
+    {
         "Author": "Caraxi, buengese",
         "Name": "Item Search",
         "Punchline": "Search and link items, even if you don't have them.",
@@ -16,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650222695"
+        "LastUpdate": "1650312666"
     }
 ]
