@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650312666"
+        "LastUpdate": "1650380449"
     },
     {
         "Author": "Caraxi, buengese",
@@ -29,7 +29,7 @@
         "AssemblyVersion": "2.0.0.1",
         "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 4,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "IsHide": false,
@@ -37,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650312666"
+        "LastUpdate": "1650380449"
     }
 ]
