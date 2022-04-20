@@ -18,11 +18,11 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650380908"
+        "LastUpdate": "1650481033"
     },
     {
         "Author": "Caraxi, buengese",
-        "Name": "Item Search",
+        "Name": "Item Search Fixed",
         "Punchline": "Search and link items, even if you don't have them.",
         "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
         "InternalName": "ItemSearchPlugin",
@@ -37,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650380908"
+        "LastUpdate": "1650481033"
     }
 ]
