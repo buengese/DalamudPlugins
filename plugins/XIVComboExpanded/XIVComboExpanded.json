@@ -1,6 +1,6 @@
 {
   "Author": "attick, daemitus, buengese",
-  "Name": "XIV Combo Expanded",
+  "Name": "XIV Combo Expanded (custom)",
   "InternalName": "XIVComboExpanded",
   "AssemblyVersion": "3.0.0.1",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
