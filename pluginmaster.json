@@ -1,7 +1,7 @@
 [
     {
         "Author": "attick, daemitus, buengese",
-        "Name": "XIV Combo Expanded",
+        "Name": "XIV Combo Expanded (custom)",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650481033"
+        "LastUpdate": "1650481384"
     },
     {
         "Author": "Caraxi, buengese",
@@ -37,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650481033"
+        "LastUpdate": "1650481384"
     }
 ]
