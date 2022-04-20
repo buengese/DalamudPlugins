@@ -1,6 +1,6 @@
 {
   "Author": "Caraxi, buengese",
-  "Name": "Item Search",
+  "Name": "Item Search Fixed",
   "InternalName": "ItemSearchPlugin",
   "AssemblyVersion": "2.0.0.1",
   "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
