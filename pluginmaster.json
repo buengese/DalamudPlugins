@@ -1,5 +1,24 @@
 [
     {
+        "Author": "Caraxi, buengese",
+        "Name": "Item Search (custom)",
+        "Punchline": "Search and link items, even if you don't have them.",
+        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
+        "InternalName": "ItemSearchPlugin",
+        "AssemblyVersion": "2.0.0.3",
+        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1651319545"
+    },
+    {
         "Author": "attick, daemitus, buengese",
         "Name": "XIV Combo Expanded (custom)",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -18,25 +37,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650499116"
-    },
-    {
-        "Author": "Caraxi, buengese",
-        "Name": "Item Search (custom)",
-        "Punchline": "Search and link items, even if you don't have them.",
-        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-        "InternalName": "ItemSearchPlugin",
-        "AssemblyVersion": "2.0.0.1",
-        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1650499116"
+        "LastUpdate": "1651319545"
     }
 ]
