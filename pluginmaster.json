@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651319545"
+        "LastUpdate": "1651610930"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -37,6 +37,26 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651319545"
+        "LastUpdate": "1651610930"
+    },
+    {
+        "Author": "Avaflow, buengese",
+        "Name": "Oops, All Lalafells!",
+        "Punchline": "That one funny plugin your friend told you about.",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
+        "InternalName": "OopsAllLalafells",
+        "AssemblyVersion": "1.4.0",
+        "RepoUrl": "https://github.com/buengese/oops-all-lalafells/",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1651610930"
     }
 ]
