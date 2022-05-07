@@ -16,7 +16,25 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651610930"
+        "LastUpdate": "1651960960"
+    },
+    {
+        "Author": "buengese",
+        "Name": "ActionTranslate",
+        "Description": "Force Action names to display in English no matter the current client language.",
+        "InternalName": "ActionTranslate",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/buengese/ActionTranslate",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 1,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1651960960"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -37,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651610930"
+        "LastUpdate": "1651960960"
     },
     {
         "Author": "Avaflow, buengese",
@@ -57,6 +75,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651610930"
+        "LastUpdate": "1651960960"
     }
 ]
