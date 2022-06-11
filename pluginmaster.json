@@ -1,24 +1,5 @@
 [
     {
-        "Author": "Caraxi, buengese",
-        "Name": "Item Search (custom)",
-        "Punchline": "Search and link items, even if you don't have them.",
-        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-        "InternalName": "ItemSearchPlugin",
-        "AssemblyVersion": "2.0.0.3",
-        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652030223"
-    },
-    {
         "Author": "buengese",
         "Name": "ActionTranslate",
         "Description": "Force Action names to display in English no matter the current client language.",
@@ -34,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652030223"
+        "LastUpdate": "1654986802"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -55,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652030223"
+        "LastUpdate": "1654986802"
     },
     {
         "Author": "Avaflow, buengese",
@@ -75,6 +56,25 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652030223"
+        "LastUpdate": "1654986802"
+    },
+    {
+        "Author": "Caraxi, buengese",
+        "Name": "Item Search (custom)",
+        "Punchline": "Search and link items, even if you don't have them.",
+        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
+        "InternalName": "ItemSearchPlugin",
+        "AssemblyVersion": "2.0.0.4",
+        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1654986802"
     }
 ]
