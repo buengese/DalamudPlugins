@@ -57,24 +57,5 @@
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1654986802"
-    },
-    {
-        "Author": "Caraxi, buengese",
-        "Name": "Item Search (custom)",
-        "Punchline": "Search and link items, even if you don't have them.",
-        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-        "InternalName": "ItemSearchPlugin",
-        "AssemblyVersion": "2.0.0.4",
-        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1654986802"
     }
 ]
