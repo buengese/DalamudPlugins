@@ -2,11 +2,11 @@
   "Author": "Caraxi, buengese",
   "Name": "ItemSearch2",
   "InternalName": "ItemSearch2",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.1.0.0",
   "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Search and link items, even if you don't have them."
 }
