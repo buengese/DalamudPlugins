@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663514795"
+        "LastUpdate": "1663515614"
     },
     {
         "Author": "Avaflow, buengese",
@@ -38,48 +38,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663514795"
-    },
-    {
-        "Author": "Avaflow, buengese",
-        "Name": "Oops, All Lalafells!",
-        "Punchline": "That one funny plugin your friend told you about.",
-        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
-        "InternalName": "OopsAllLalafells",
-        "AssemblyVersion": "1.4.0",
-        "RepoUrl": "https://github.com/buengese/oops-all-lalafells/",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1663514795"
-    },
-    {
-        "Author": "goat",
-        "Name": "Character Data Sync",
-        "Punchline": "Sync your character data from your main character to all others",
-        "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!",
-        "InternalName": "Dalamud.CharacterSync",
-        "AssemblyVersion": "2.0.0.5",
-        "RepoUrl": "https://github.com/goaaats/Dalamud.CharacterSync",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "IconUrl": "https://github.com/goaaats/Dalamud.CharacterSync/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1663514795"
+        "LastUpdate": "1663515614"
     },
     {
         "Author": "Caraxi, buengese",
@@ -98,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663514795"
+        "LastUpdate": "1663515614"
     },
     {
         "Author": "buengese",
@@ -116,6 +75,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663514795"
+        "LastUpdate": "1663515614"
     }
 ]
