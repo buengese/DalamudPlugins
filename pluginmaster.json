@@ -18,7 +18,27 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663419009"
+        "LastUpdate": "1663514795"
+    },
+    {
+        "Author": "Avaflow, buengese",
+        "Name": "Oops, All Lalafells!",
+        "Punchline": "That one funny plugin your friend told you about.",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
+        "InternalName": "OopsAllLalafells2",
+        "AssemblyVersion": "1.0.0",
+        "RepoUrl": "https://github.com/buengese/OopsAllLalafells/",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1663514795"
     },
     {
         "Author": "Avaflow, buengese",
@@ -38,7 +58,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663419009"
+        "LastUpdate": "1663514795"
     },
     {
         "Author": "goat",
@@ -59,7 +79,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663419009"
+        "LastUpdate": "1663514795"
     },
     {
         "Author": "Caraxi, buengese",
@@ -78,7 +98,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663419009"
+        "LastUpdate": "1663514795"
     },
     {
         "Author": "buengese",
@@ -96,6 +116,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663419009"
+        "LastUpdate": "1663514795"
     }
 ]
