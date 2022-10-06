@@ -1,5 +1,67 @@
 [
     {
+        "Author": "buengese",
+        "Name": "ActionTranslate",
+        "Description": "Force Action names to display in English no matter the current client language.",
+        "InternalName": "ActionTranslate",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/buengese/ActionTranslate",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 1,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1665084929"
+    },
+    {
+        "Author": "Roselyn",
+        "Name": "Elden Ring April Fools",
+        "Punchline": "Recreation of the Elden Ring April Fools joke.",
+        "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
+        "InternalName": "EldenRing",
+        "AssemblyVersion": "0.0.0.4",
+        "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Elden Ring",
+            "plugin",
+            "Death",
+            "Craft"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1665084929"
+    },
+    {
+        "Author": "Caraxi, buengese",
+        "Name": "ItemSearch2",
+        "Punchline": "Search and link items, even if you don't have them.",
+        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
+        "InternalName": "ItemSearch2",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1665084929"
+    },
+    {
         "Author": "attick, daemitus, buengese",
         "Name": "XIV Combo Custom",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -18,7 +80,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663515614"
+        "LastUpdate": "1665084929"
     },
     {
         "Author": "Avaflow, buengese",
@@ -38,43 +100,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1663515614"
-    },
-    {
-        "Author": "Caraxi, buengese",
-        "Name": "ItemSearch2",
-        "Punchline": "Search and link items, even if you don't have them.",
-        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-        "InternalName": "ItemSearch2",
-        "AssemblyVersion": "1.1.0.0",
-        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1663515614"
-    },
-    {
-        "Author": "buengese",
-        "Name": "ActionTranslate",
-        "Description": "Force Action names to display in English no matter the current client language.",
-        "InternalName": "ActionTranslate",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "https://github.com/buengese/ActionTranslate",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 1,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1663515614"
+        "LastUpdate": "1665084929"
     }
 ]
