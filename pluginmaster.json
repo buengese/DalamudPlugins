@@ -18,31 +18,6 @@
         "LastUpdate": "1665084929"
     },
     {
-        "Author": "Roselyn",
-        "Name": "Elden Ring April Fools",
-        "Punchline": "Recreation of the Elden Ring April Fools joke.",
-        "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
-        "InternalName": "EldenRing",
-        "AssemblyVersion": "0.0.0.4",
-        "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Elden Ring",
-            "plugin",
-            "Death",
-            "Craft"
-        ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRing/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1665084929"
-    },
-    {
         "Author": "Caraxi, buengese",
         "Name": "ItemSearch2",
         "Punchline": "Search and link items, even if you don't have them.",
