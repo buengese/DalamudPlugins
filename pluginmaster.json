@@ -1,5 +1,30 @@
 [
     {
+        "Author": "Roselyn, buengese",
+        "Name": "Elden Ring April Fools",
+        "Punchline": "Recreation of the Elden Ring April Fools joke.",
+        "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
+        "InternalName": "EldenRingPlugin",
+        "AssemblyVersion": "0.0.0.5",
+        "RepoUrl": "https://github.com/buengese/EldenRingDalamud",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Elden Ring",
+            "plugin",
+            "Death",
+            "Craft"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1665085969"
+    },
+    {
         "Author": "buengese",
         "Name": "ActionTranslate",
         "Description": "Force Action names to display in English no matter the current client language.",
@@ -15,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665085702"
+        "LastUpdate": "1665085969"
     },
     {
         "Author": "Caraxi, buengese",
@@ -34,7 +59,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665085702"
+        "LastUpdate": "1665085969"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -55,7 +80,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665085702"
+        "LastUpdate": "1665085969"
     },
     {
         "Author": "Avaflow, buengese",
@@ -75,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665085702"
+        "LastUpdate": "1665085969"
     }
 ]
