@@ -5,7 +5,7 @@
         "Punchline": "Recreation of the Elden Ring April Fools joke.",
         "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
         "InternalName": "EldenRingPlugin",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.8",
         "RepoUrl": "https://github.com/buengese/EldenRingDalamud",
         "ApplicableVersion": "any",
         "Tags": [
@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665087520"
+        "LastUpdate": "1666037986"
     },
     {
         "Author": "buengese",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665087520"
+        "LastUpdate": "1666037986"
     },
     {
         "Author": "Caraxi, buengese",
@@ -59,7 +59,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665087520"
+        "LastUpdate": "1666037986"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -80,7 +80,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665087520"
+        "LastUpdate": "1666037986"
     },
     {
         "Author": "Avaflow, buengese",
@@ -100,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665087520"
+        "LastUpdate": "1666037986"
     }
 ]
