@@ -1,32 +1,11 @@
 [
     {
-        "Author": "attick, daemitus, buengese",
-        "Name": "XIV Combo Custom",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboCustom",
-        "AssemblyVersion": "3.0.0.3",
-        "RepoUrl": "https://github.com/buengese/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1666047331"
-    },
-    {
         "Author": "Roselyn, buengese",
         "Name": "Elden Ring April Fools",
         "Punchline": "Recreation of the Elden Ring April Fools joke.",
         "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
         "InternalName": "EldenRingPlugin",
-        "AssemblyVersion": "0.0.0.9",
+        "AssemblyVersion": "0.0.1.0",
         "RepoUrl": "https://github.com/buengese/EldenRingDalamud",
         "ApplicableVersion": "any",
         "Tags": [
@@ -43,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666047331"
+        "LastUpdate": "1666047737"
     },
     {
         "Author": "buengese",
@@ -61,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666047331"
+        "LastUpdate": "1666047737"
     },
     {
         "Author": "Caraxi, buengese",
@@ -80,7 +59,28 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666047331"
+        "LastUpdate": "1666047737"
+    },
+    {
+        "Author": "attick, daemitus, buengese",
+        "Name": "XIV Combo Custom",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "InternalName": "XIVComboCustom",
+        "AssemblyVersion": "3.0.0.3",
+        "RepoUrl": "https://github.com/buengese/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1666047737"
     },
     {
         "Author": "Avaflow, buengese",
@@ -100,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666047331"
+        "LastUpdate": "1666047737"
     }
 ]
