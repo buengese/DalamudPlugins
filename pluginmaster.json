@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666549553"
+        "LastUpdate": "1667149803"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666549553"
+        "LastUpdate": "1667149803"
     },
     {
         "Author": "Caraxi, buengese",
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666549553"
+        "LastUpdate": "1667149803"
     },
     {
         "Author": "Avaflow, buengese",
@@ -75,7 +75,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666549553"
+        "LastUpdate": "1667149803"
     },
     {
         "Author": "Roselyn, buengese",
@@ -83,7 +83,7 @@
         "Punchline": "Recreation of the Elden Ring April Fools joke.",
         "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
         "InternalName": "EldenRingPlugin",
-        "AssemblyVersion": "0.0.2.0",
+        "AssemblyVersion": "0.0.2.1",
         "RepoUrl": "https://github.com/buengese/EldenRingDalamud",
         "ApplicableVersion": "any",
         "Tags": [
@@ -100,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666549553"
+        "LastUpdate": "1667149803"
     }
 ]
