@@ -1,0 +1,16 @@
+{
+  "Author": "buengese",
+  "Name": "Moneli.TestPlugin",
+  "InternalName": "Moneli.TestPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Development tool - do not use",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/buengese/Moneli.TestPlugin",
+  "Tags": [
+    "dev",
+    "plugin"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Development tool - do not use"
+}
