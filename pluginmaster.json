@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ActionTranslate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667233525"
+        "LastUpdate": "1667738742"
     },
     {
         "Author": "attick, daemitus, buengese",
@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/XIVComboCustom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667233525"
+        "LastUpdate": "1667738742"
     },
     {
         "Author": "Caraxi, buengese",
@@ -55,7 +55,30 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667233525"
+        "LastUpdate": "1667738742"
+    },
+    {
+        "Author": "buengese",
+        "Name": "Moneli.TestPlugin",
+        "Punchline": "Development tool - do not use",
+        "Description": "Development tool - do not use",
+        "InternalName": "Moneli.TestPlugin",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/buengese/Moneli.TestPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "dev",
+            "plugin"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Moneli.TestPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Moneli.TestPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Moneli.TestPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1667738742"
     },
     {
         "Author": "Avaflow, buengese",
@@ -75,7 +98,7 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/OopsAllLalafells2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667233525"
+        "LastUpdate": "1667738742"
     },
     {
         "Author": "Roselyn, buengese",
@@ -100,6 +123,6 @@
         "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/EldenRingPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667233525"
+        "LastUpdate": "1667738742"
     }
 ]
